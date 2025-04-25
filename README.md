@@ -15,7 +15,6 @@ I'm passionate about contributing to data-driven products, especially those that
 
 ## 🚀 Featured Projects
 
----
 
 ### 🛡️ Surakshita – Women's Safety App  
 **TensorFlow, BiLSTM, Android, Python, Google Maps API**  
