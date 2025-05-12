@@ -28,7 +28,7 @@ I'm passionate about contributing to data-driven products, especially those that
 **RAG, deepseek, langchain, ollama, streamlit**  
 > AI Lawyer is a Streamlit-based chatbot that answers questions from uploaded legal PDFs using a Retrieval-Augmented Generation (RAG) pipeline powered by FAISS and DeepSeek LLM.
 
-[View Project](#https://github.com/KurianJose7586/Ai-lawyer-project)
+[View Project](https://github.com/KurianJose7586/Ai-lawyer-project)
 
 ---
 ### 🔊 Voice Query Assistant (WIP)
