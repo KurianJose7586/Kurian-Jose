@@ -24,11 +24,11 @@ I'm passionate about contributing to data-driven products, especially those that
 
 ---
 
-### 💬 PyChat – Rule-Based Chatbot  
-**Python, NLTK, NLP**  
-> Developed a rule-based chatbot using natural language processing techniques. Future upgrades include LLM integration via Hugging Face Transformers and LangChain for contextual memory and dynamic prompts.
+### 💬 AI - lawyer project 
+**RAG, deepseek, langchain, ollama, streamlit**  
+> AI Lawyer is a Streamlit-based chatbot that answers questions from uploaded legal PDFs using a Retrieval-Augmented Generation (RAG) pipeline powered by FAISS and DeepSeek LLM.
 
-[View Project](#)
+[View Project](#https://github.com/KurianJose7586/Ai-lawyer-project)
 
 ---
 ### 🔊 Voice Query Assistant (WIP)
